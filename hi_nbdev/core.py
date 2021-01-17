@@ -4,4 +4,4 @@ __all__ = ['do_something']
 
 # Cell
 def do_something():
-    print('brzt')
+    print('brztt')
